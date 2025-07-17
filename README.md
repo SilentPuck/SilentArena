@@ -1,6 +1,11 @@
 SilentArena Lite v0.1
 ========================
 
+# SilentArena Lite v0.1
+
+[🔽 Download SilentArena v0.1 (.tar.gz)](https://github.com/SilentPuck/SilentArena/releases/download/v0.1/SilentArena_v0.1.tar.gz)  
+Released for educational use. Safe by design.
+
 > A safe simulation of ransomware-like behavior — built to teach, not to destroy.
 
 ---
