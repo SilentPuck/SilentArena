@@ -95,6 +95,7 @@ If you found it useful and want to see deeper, more realistic simulations
 → **support the project**:
 
 XMR: 46vt374N1tRduTQZFodskNbqygTnkFFo3SLJ8btmGkbyFpib65qFVMycF2PsDFpr1dUAv77JnpV5669HnRnULJ2Y6JkuFiS
+
 BTC: bc1q7jrq0u4yu6s5jgtrwkmwjaqhttam3ch3ura4aw
 
 > I won't promise anything. But I might just build more...
